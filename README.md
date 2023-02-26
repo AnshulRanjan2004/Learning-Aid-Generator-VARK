@@ -28,3 +28,22 @@ Moving forward we even created a discord server customised especially according 
 
 
 <h2>Developer Guide</h2>
+To contribute to the Project, follow these steps:
+
+1) Fork the Repository: Click on the "Fork" button in the upper right corner of the repository page. This will create a copy of the repository in your GitHub account.
+
+2) Clone the Repository: Clone the repository to your local machine using the git clone command. For example, if you are using HTTPS, you can run the following command:
+
+git clone https://github.com/your-username/repository-name.git
+
+3) Make Changes: Edit the README file using a text editor on your local machine. You can use Markdown to format the text and add images or links.
+
+4) Commit Changes: After you have made your changes, commit them to your local repository using the git commit command. Be sure to write a descriptive commit message that explains the changes you made.
+
+5) Push Changes: Push the changes to your forked repository using the git push command. For example, if your remote repository is named "origin", you can run the following command:
+
+git push origin main
+
+6) Create a Pull Request: Go to the original repository and click on the "New pull request" button. Choose your forked repository and the branch that contains your changes. Write a clear and concise description of your changes, and submit the pull request.
+
+7) Collaborate with Others: Be responsive to feedback and collaborate with others to improve the README file. Be open to suggestions and willing to make changes based on feedback.
