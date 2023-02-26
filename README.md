@@ -34,7 +34,7 @@ To contribute to the Project, follow these steps:
 
 2) Clone the Repository: Clone the repository to your local machine using the git clone command. For example, if you are using HTTPS, you can run the following command:
 
-git clone https://github.com/your-username/repository-name.git
+    git clone https://github.com/your-username/ThirdWheel-Challenge-4.git
 
 3) Make Changes: Edit the README file using a text editor on your local machine. You can use Markdown to format the text and add images or links.
 
@@ -42,7 +42,7 @@ git clone https://github.com/your-username/repository-name.git
 
 5) Push Changes: Push the changes to your forked repository using the git push command. For example, if your remote repository is named "origin", you can run the following command:
 
-git push origin main
+    git push origin main
 
 6) Create a Pull Request: Go to the original repository and click on the "New pull request" button. Choose your forked repository and the branch that contains your changes. Write a clear and concise description of your changes, and submit the pull request.
 
